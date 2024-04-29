@@ -23,5 +23,5 @@ This project demonstrates how to build a real-time chat application using Node.j
 ->Message History: Display message history for users joining the chat room, ensuring no messages are missed.
 
 ## Deployed Link
-https://chic-kulfi-f61da3.netlify.app
+[https://chic-kulfi-f61da3.netlify.app]
 
